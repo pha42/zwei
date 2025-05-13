@@ -1,5 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"sevBattler","characterIndex":0,"characterName":"sevWalk","classId":2,"equips":[2,0,0,20,0],"faceIndex":0,"faceName":"sevFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Şevval","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"omwalk","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"omface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ömer","nickname":"","note":"","profile":""}
-]
