@@ -6,6 +6,6 @@ null,
 {"id":4,"expanded":true,"name":"cottage","order":5,"parentId":1,"scrollX":811,"scrollY":461.5,"quick":false},
 {"id":5,"expanded":false,"name":"restaurant","order":2,"parentId":1,"scrollX":811,"scrollY":461.5,"quick":false},
 {"id":6,"expanded":false,"name":"cottagef1","order":6,"parentId":4,"scrollX":811,"scrollY":461.5,"quick":false},
-{"id":7,"expanded":true,"name":"cottagef2","order":7,"parentId":4,"scrollX":819,"scrollY":498.5,"quick":false},
+{"id":7,"expanded":true,"name":"cottagef2","order":7,"parentId":4,"scrollX":811,"scrollY":498.5,"quick":false},
 {"id":8,"expanded":false,"name":"MAP008","order":8,"parentId":0,"scrollX":811,"scrollY":461.5,"quick":true}
 ]
